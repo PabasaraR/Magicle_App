@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Magicle_App/static/css/main.4a0a28ea.css",
+    "main.js": "/Magicle_App/static/js/main.3ef5023f.js",
+    "static/js/453.231ed3a6.chunk.js": "/Magicle_App/static/js/453.231ed3a6.chunk.js",
+    "static/media/image1.jpg": "/Magicle_App/static/media/image1.0052ff574110eb2415ac.jpg",
+    "static/media/image2.jpg": "/Magicle_App/static/media/image2.228d8de45f550d9ec68b.jpg",
+    "static/media/bg.png": "/Magicle_App/static/media/bg.736d591b731b8ce09a14.png",
+    "index.html": "/Magicle_App/index.html",
+    "main.4a0a28ea.css.map": "/Magicle_App/static/css/main.4a0a28ea.css.map",
+    "main.3ef5023f.js.map": "/Magicle_App/static/js/main.3ef5023f.js.map",
+    "453.231ed3a6.chunk.js.map": "/Magicle_App/static/js/453.231ed3a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a0a28ea.css",
+    "static/js/main.3ef5023f.js"
+  ]
+}
